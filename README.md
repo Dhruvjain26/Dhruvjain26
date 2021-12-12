@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋!
+I am **Dhruv Jain**
+## About Me
+write about me.....
+fokkow me on [name of link](put the link here)
 
-<!--
-**Dhruvjain26/Dhruvjain26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## coding skills
+to insert image 
+<p>
+  <imp src="link" height="70px"/>
+</p>
+  
+## other skills
+  1. HTML
+  2. CSS(ordered list)
+  
+  unordered list
+  - **languages**
+     - hindi
+     - english
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+to insert a image with a link(click on image a a link is opened)= [<img src="image link" height="78px"/>](link)
+  
+
